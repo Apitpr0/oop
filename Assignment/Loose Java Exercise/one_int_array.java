@@ -15,7 +15,7 @@ public class one_int_array {
         }
         // Displaying the array
         for (int i = 0; i < 5; i++) {
-            System.out.print("\n marks" + (i + 1) + ":" + marks[i]);
+            System.out.print("\n Marks " + (i + 1) + " : " + marks[i]);
         }
     }
 }
