@@ -7,7 +7,7 @@ class twodim_array_students_marks {
                 { 98, 93, 75 },
                 { 78, 60, 65 }
         };
-        System.out.println(marks_table[1][2]);
+        System.out.println(marks_table[0][2]);
         System.out.println(marks_table[3][0]);
         System.out.println(marks_table[2][1]);
         System.out.println(marks_table[4][1]);
